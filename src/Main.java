@@ -4,7 +4,14 @@ import javaClasses.userInput;
 class Main {
 
     public static void showTitle() {
-        System.out.println("PLACEHOLDER MENU");
+        System.out.println(" /$$$$$$$$     /$$$$$                      /$$$$$ /$$$$$$$  /$$$$$$$$        /$$       /$$");
+        System.out.println("| $$__   $$   |__  $$                     |__  $$| $$__  $$|__  $$__/       | $$      | $$");
+        System.out.println("| $$  \\  $$      | $$                        | $$| $$  \\ $$   | $$  /$$$$$$ | $$$$$$$ | $$  /$$$$$");
+        System.out.println("| $$$$$$$$       | $$      /$$$$$$           | $$| $$$$$$$    | $$ |____  $$| $$__  $$| $$ /$$__ $$");
+        System.out.println("| $$__   $$ /$$  | $$     |______/      /$$  | $$| $$         | $$  /$$$$$$$| $$  \\ $$| $$| $$$$$$$");
+        System.out.println("| $$  \\  $$| $$  | $$                  | $$  | $$| $$         | $$ /$$__  $$| $$  | $$| $$| $$____/");
+        System.out.println("| $$$$$$$$/|  $$$$$$/                  |  $$$$$$/| $$         | $$|  $$$$$$$| $$$$$$$/| $$|  $$$$$$");
+        System.out.println("|________/  \\______/\t\t\t\t    \\______/ |__/         |__/ \\_______/|_______/ |__/ \\______/");
     }
 
     public static int showMenu() {
